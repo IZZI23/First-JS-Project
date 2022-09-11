@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-zc4p)ch6denxd80m%=6j2mwd^vko!s3531w^e&90qxsj45u507
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['rps-game-55.herokuapp.com', '127.0.0.1:9000', ]
 
 
 # Application definition
